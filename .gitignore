@@ -1,0 +1,8 @@
+venv/
+*.db
+.agents/
+.claude/
+__pycache__/
+.DS_Store
+Dockerfile
+subir.py
